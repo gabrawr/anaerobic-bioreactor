@@ -12,3 +12,4 @@ $\dot{S_1}(t)=-k_1 v_1(S_1(t))x_1(t)$
 $\dot{S_2}(t)= k_2 v_1(S_1(t))x_1(t)+ k_3 v_2(S_2(t)) x_2(t)$
  
  
+Mudei coisas
